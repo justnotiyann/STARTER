@@ -59,6 +59,16 @@ Sekian dari kami dan terima kasih😊.
   
   - static => Berisikan file custom css dan javascript yang digunakan dalam website 
 
+#### HOW TO EDIT THIS FILE
+
+Kami menggunakan sistem layaknya framework javascript yaitu base component. Hal ini bertujuan untuk memberikan tampilan kode sehingga semakin lebih rapih dan terstruktur.Hal ini didasari karena kami menggunakan framework css yaitu Tailwind CSS untuk proses styling dalam development website ini.
+
+Apabila ingin mengedit konten html terkait bisa dilakukan dengan membuka folder
+
+```javascript
+/public/src/components/namaComponent.js
+```
+
 #### **CONTACT US**
 
 Apabila terdapat kendala silahkan hubungi kami :
